@@ -4,6 +4,7 @@
 
 - git config --global user.email "seu e-mail"
 - git config --global user.name "seu nome de usuário"
+- git config --list (Listar configurações)
 
 ### Comandos Básicos:
 
